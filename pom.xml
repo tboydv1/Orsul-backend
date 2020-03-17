@@ -4,9 +4,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <modules>
-        <module>mailer_data</module>
-        <module>mailer_service</module>
-        <module>mailer_web</module>
+        <module>orsul_data</module>
+        <module>orsul_service</module>
+        <module>orsul_web</module>
     </modules>
 
     <parent>
@@ -18,11 +18,11 @@
 
     <packaging>pom</packaging>
 
-    <groupId>com.mailer</groupId>
-    <artifactId>mailer_parent</artifactId>
+    <groupId>com.orsul</groupId>
+    <artifactId>orsul_parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mailer_parent</name>
-    <description>Demo project for Spring Boot</description>
+    <name>orsul parent</name>
+    <description>Parent project orsul</description>
 
     <properties>
         <java.version>13</java.version>
